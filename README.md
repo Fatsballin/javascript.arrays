@@ -1,1 +1,1 @@
-# javascript.numbers
+# javascript.arrays
